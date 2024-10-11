@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi my name is Escolano Allan !, i'm a 3rd year software developer at ESGI campus located in Grenoble/FRANCE.
+I'm currently looking for an intership as part of my studies.
 
-<!--
-**EscolanoA/EscolanoA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/EscolanoA?style=social)](https://github.com/EscolanoA)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourProfile-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/allan-escolano-87a97b232)
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a 3rd year software developer at ESGI campus located in Grenoble/FRANCE.
+I'm currently looking for an intership as part of my studies.
+
+## 🛠️ Technologies & Tools
+
+- Programming Languages: JavaScript, CSS, HTML, PYTHON, LUA / C#, JAVA, C/ SQL.
+- Frameworks: React, Node.js, Vue.js, Angular.js, .NET, EasyModbus.
+- Tools: Git, GitHub, MicrosoftSQLServer, WampServer, MongDB, VScode, VisualStudio, JetBrainIDE.
+
+## 🌱 Currently Learning
+
+- C
+- React.js
+- Advanced Algorythmics
+
+## 📫 How to Reach Me
+
+- Email: [escolanoallan4@gmail.com](mailto:escolanoallan4@gmail.com)
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=EscolanoA&show_icons=true&theme=radical)
+
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EscolanoA&theme=radical)
