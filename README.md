@@ -8,11 +8,11 @@ Salut, je m'appelle Escolano Allan !
 Je suis un développeur logiciel/web au campus ESGI situé dans Grenoble/FRANCE.
 Je suis activement a la recheche d'une alternance pour mes études.
 
-## 🛠️ Compétences & outilms
+## 🛠️ Compétences & outils
 
 - Languages de programmation: JavaScript, CSS, HTML, PYTHON, LUA / C#, JAVA, C/ SQL.
 - Frameworks: React, Node.js, Vue.js, Angular.js, .NET, EasyModbus.
-- Tools: Git, GitHub, MicrosoftSQLServer, WampServer, MongDB, VScode, VisualStudio, JetBrainIDE, FlutterFlow.
+- Outils: Git, GitHub, MicrosoftSQLServer, WampServer, MongDB, VScode, VisualStudio, JetBrainIDE, FlutterFlow.
 
 ## 🌱 En apprentissage de
 
